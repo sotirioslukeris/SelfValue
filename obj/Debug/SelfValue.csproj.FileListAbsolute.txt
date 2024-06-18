@@ -1,0 +1,7 @@
+C:\Users\banan\source\repos\SelfValue\bin\Debug\SelfValue.exe.config
+C:\Users\banan\source\repos\SelfValue\bin\Debug\SelfValue.exe
+C:\Users\banan\source\repos\SelfValue\bin\Debug\SelfValue.pdb
+C:\Users\banan\source\repos\SelfValue\obj\Debug\SelfValue.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\SelfValue\obj\Debug\SelfValue.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\SelfValue\obj\Debug\SelfValue.exe
+C:\Users\banan\source\repos\SelfValue\obj\Debug\SelfValue.pdb
